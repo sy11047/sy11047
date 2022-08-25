@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sy11047
+- 👋 Hi, I’m @sy11047 (SACHIN)
 - 👀 I’m interested in coding, music and more 
 - 🌱 I’m currently learning C/C++, Python
 - 📫 How to reach me @timeforsachin@gmail.com
